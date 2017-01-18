@@ -1,4 +1,4 @@
-#!/home/mudies/code/scantoredis/env/bin/python2
+#!/beamline/apps/scantoredis/env/bin/python
 
 # -*- coding: utf-8 -*-
 import re
